@@ -34,3 +34,4 @@
     9. `$ sudo systemctl restart nginx` restart nginx
     10. Check if it is running `$ ps aux | grep nginx`
 
+- Add git
